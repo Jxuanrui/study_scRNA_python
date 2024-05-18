@@ -1,7 +1,0 @@
-# 文件说明
-- original_adata.zip:单样本流程的输入文件（原始的Anndata对象）
-> 通过：adata = sc.read('original_adata.h5ad')读入环境
-
-
-- 
-
